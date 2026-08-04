@@ -72,5 +72,19 @@ When she answers:
   that piece** with the same layered method (plain + precise), and ask one more check
   question on that spot. Repeat until she gets it.
 
+### Pushback and sources
+
+If she pushes back on a factual point — "no, you're wrong", "that's not right", or
+states a contradicting fact — do NOT fold just to agree with her (sycophancy). Hold the
+position **only** when you are actually right, and back it up:
+
+- **Find a real source with web search** (WebSearch / WebFetch) and give her the verified
+  link. Never invent a plausible-looking URL from memory — a fabricated source is worse
+  than none.
+- If she brought her own fact or source, check it. If she turns out to be right, admit the
+  mistake plainly.
+- Sources belong **only** at this pushback/verification stage — NOT in the first
+  explanation (Step 1) or the test (Step 2), where a link only scares a beginner.
+
 The goal of this skill: she should NOT have to re-ask three times. It should click on
 the first explanation.
